@@ -8,3 +8,4 @@ payload:
   - '+.astro.build'
   - '+.getrevue.co'
   - '+.openai.com'
+  - '+.moec.top'
