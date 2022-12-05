@@ -1,0 +1,10 @@
+payload:
+  - '+.mirror.xyz'
+  - '+.miobt.com'
+  - '+.glitch.me'
+  - '+.tzcafe.com'
+  - '+.mailbrew.com'
+  - '+.vuejs.org'
+  - '+.astro.build'
+  - '+.getrevue.co'
+  - '+.openai.com'
