@@ -10,3 +10,4 @@ payload:
   - '+.openai.com'
   - '+.moec.top'
   - '+.tw93.fun'
+  - '+.getlater.app'
