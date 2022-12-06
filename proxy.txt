@@ -9,3 +9,4 @@ payload:
   - '+.getrevue.co'
   - '+.openai.com'
   - '+.moec.top'
+  - '+.tw93.fun'
