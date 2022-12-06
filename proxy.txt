@@ -11,3 +11,4 @@ payload:
   - '+.moec.top'
   - '+.tw93.fun'
   - '+.getlater.app'
+  - '+.inputsource.pro'
