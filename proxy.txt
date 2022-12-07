@@ -12,3 +12,4 @@ payload:
   - '+.tw93.fun'
   - '+.getlater.app'
   - '+.inputsource.pro'
+  - '+.yahoo.com'
