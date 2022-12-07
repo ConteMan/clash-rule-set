@@ -14,3 +14,4 @@ payload:
   - '+.inputsource.pro'
   - '+.yahoo.com'
   - '+.yimg.com'
+  - '+.silent.land'
