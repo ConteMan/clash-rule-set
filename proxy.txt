@@ -13,3 +13,4 @@ payload:
   - '+.getlater.app'
   - '+.inputsource.pro'
   - '+.yahoo.com'
+  - '+.yimg.com'
