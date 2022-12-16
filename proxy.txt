@@ -16,3 +16,4 @@ payload:
   - '+.yimg.com'
   - '+.silent.land'
   - '+.googleapis.com'
+  - '+.gstatic.com'
