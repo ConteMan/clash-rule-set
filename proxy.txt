@@ -17,3 +17,4 @@ payload:
   - '+.silent.land'
   - '+.googleapis.com'
   - '+.gstatic.com'
+  - '+.calibre-ebook.com'
