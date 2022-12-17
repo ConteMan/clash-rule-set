@@ -18,3 +18,4 @@ payload:
   - '+.googleapis.com'
   - '+.gstatic.com'
   - '+.calibre-ebook.com'
+  - '+.donotban.com'
