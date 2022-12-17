@@ -19,3 +19,4 @@ payload:
   - '+.gstatic.com'
   - '+.calibre-ebook.com'
   - '+.donotban.com'
+  - '+.wrbug.com'
