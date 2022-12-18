@@ -20,3 +20,4 @@ payload:
   - '+.calibre-ebook.com'
   - '+.donotban.com'
   - '+.wrbug.com'
+  - '+.skylinewebcams.com'
