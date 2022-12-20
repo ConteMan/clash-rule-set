@@ -21,3 +21,4 @@ payload:
   - '+.donotban.com'
   - '+.wrbug.com'
   - '+.skylinewebcams.com'
+  - '+.producthunt.com'
