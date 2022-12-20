@@ -22,3 +22,4 @@ payload:
   - '+.wrbug.com'
   - '+.skylinewebcams.com'
   - '+.producthunt.com'
+  - '+.sockboom.cool'
