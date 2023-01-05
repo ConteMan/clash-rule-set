@@ -23,3 +23,4 @@ payload:
   - '+.skylinewebcams.com'
   - '+.producthunt.com'
   - '+.sockboom.cool'
+  - '+.raycast.app'
