@@ -24,3 +24,4 @@ payload:
   - '+.producthunt.com'
   - '+.sockboom.cool'
   - '+.raycast.app'
+  - '+.cloudfront.net'
