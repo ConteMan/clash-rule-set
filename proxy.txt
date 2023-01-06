@@ -27,3 +27,4 @@ payload:
   - '+.cloudfront.net'
   - '+.primefaces.org'
   - '+.goodreads.com'
+  - '+.schemastore.org'
