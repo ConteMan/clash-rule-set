@@ -1,3 +1,4 @@
 payload:
   - '+.duboku.tv'
   - '+.libvio.me'
+  - '+.qpic.cn'
