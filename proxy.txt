@@ -28,3 +28,4 @@ payload:
   - '+.primefaces.org'
   - '+.goodreads.com'
   - '+.schemastore.org'
+  - '+.hedwig.pub'
