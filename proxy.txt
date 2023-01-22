@@ -31,3 +31,4 @@ payload:
   - '+.hedwig.pub'
   - '+.spotify.com'
   - '+.futuretimeline.net'
+  - '+.ppbzy.com'
