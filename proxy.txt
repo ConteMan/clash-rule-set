@@ -32,3 +32,4 @@ payload:
   - '+.spotify.com'
   - '+.futuretimeline.net'
   - '+.ppbzy.com'
+  - '+.developer.mozilla.org'
