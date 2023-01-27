@@ -35,3 +35,6 @@ payload:
   - '+.developer.mozilla.org'
   - '+.blizzard.com'
   - '+.battle.net'
+  - '+.nexon.io'
+  - '+.nexon.com'
+  - '+.amazonaws.com'
