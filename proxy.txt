@@ -33,3 +33,5 @@ payload:
   - '+.futuretimeline.net'
   - '+.ppbzy.com'
   - '+.developer.mozilla.org'
+  - '+.blizzard.com'
+  - '+.battle.net'
