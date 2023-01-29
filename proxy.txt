@@ -39,3 +39,4 @@ payload:
   - '+.nexon.com'
   - '+.amazonaws.com'
   - '+.vercel.app'
+  - '+.sentry.io'
