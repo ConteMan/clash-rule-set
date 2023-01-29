@@ -38,3 +38,4 @@ payload:
   - '+.nexon.io'
   - '+.nexon.com'
   - '+.amazonaws.com'
+  - '+.vercel.app'
