@@ -40,3 +40,5 @@ payload:
   - '+.amazonaws.com'
   - '+.vercel.app'
   - '+.sentry.io'
+  - '+.calibre-ebook.com'
+  - '+.bad.news'
