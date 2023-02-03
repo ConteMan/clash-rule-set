@@ -42,3 +42,4 @@ payload:
   - '+.sentry.io'
   - '+.calibre-ebook.com'
   - '+.bad.news'
+  - '+.good.news'
