@@ -43,3 +43,5 @@ payload:
   - '+.calibre-ebook.com'
   - '+.bad.news'
   - '+.good.news'
+  - '+.dribbble.com'
+  - '+.stripe.network'
