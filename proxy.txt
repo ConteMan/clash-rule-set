@@ -49,3 +49,4 @@ payload:
   - '+.googletagmanager.com'
   - '+.google-analytics.com'
   - '+.doubleclick.net'
+  - '+.xindong.com'
