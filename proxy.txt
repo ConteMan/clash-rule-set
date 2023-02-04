@@ -45,3 +45,7 @@ payload:
   - '+.good.news'
   - '+.dribbble.com'
   - '+.stripe.network'
+  - '+.gsght.com'
+  - '+.googletagmanager.com'
+  - '+.google-analytics.com'
+  - '+.doubleclick.net'
