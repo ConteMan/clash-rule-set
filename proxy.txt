@@ -50,3 +50,5 @@ payload:
   - '+.google-analytics.com'
   - '+.doubleclick.net'
   - '+.xindong.com'
+  - '+.scdn.co'
+  - '+.akamaized.net'
