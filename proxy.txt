@@ -52,3 +52,4 @@ payload:
   - '+.xindong.com'
   - '+.scdn.co'
   - '+.akamaized.net'
+  - '+.mystrikingly.com'
