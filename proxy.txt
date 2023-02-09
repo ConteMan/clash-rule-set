@@ -53,3 +53,4 @@ payload:
   - '+.scdn.co'
   - '+.akamaized.net'
   - '+.mystrikingly.com'
+  - '+.v2ex.com'
