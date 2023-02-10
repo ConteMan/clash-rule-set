@@ -2,3 +2,4 @@ payload:
   - '+.duboku.tv'
   - '+.libvio.me'
   - '+.qpic.cn'
+  - '+.argotunnel.com'
