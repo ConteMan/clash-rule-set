@@ -55,3 +55,4 @@ payload:
   - '+.mystrikingly.com'
   - '+.v2ex.com'
   - '+.cloudflare.com'
+  - '+.notion.site'
