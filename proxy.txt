@@ -56,3 +56,4 @@ payload:
   - '+.v2ex.com'
   - '+.cloudflare.com'
   - '+.notion.site'
+  - '+.bing.com'
