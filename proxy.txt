@@ -60,3 +60,4 @@ payload:
   - '+.logseq.com'
   - '+.warp.plus'
   - '+.githubusercontent.com'
+  - '+.brew.sh'
