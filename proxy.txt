@@ -58,3 +58,4 @@ payload:
   - '+.notion.site'
   - '+.bing.com'
   - '+.logseq.com'
+  - '+.warp.plus'
