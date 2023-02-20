@@ -57,3 +57,4 @@ payload:
   - '+.cloudflare.com'
   - '+.notion.site'
   - '+.bing.com'
+  - '+.logseq.com'
