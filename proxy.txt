@@ -62,3 +62,4 @@ payload:
   - '+.githubusercontent.com'
   - '+.brew.sh'
   - '+.alvarcarto.com'
+  - '+.lofi.cafe'
