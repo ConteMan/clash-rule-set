@@ -63,3 +63,4 @@ payload:
   - '+.brew.sh'
   - '+.alvarcarto.com'
   - '+.lofi.cafe'
+  - '+.argotunnel.com'
