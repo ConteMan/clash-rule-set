@@ -65,3 +65,4 @@ payload:
   - '+.lofi.cafe'
   - '+.argotunnel.com'
   - '+.qbittorrent.org'
+  - '+.acg.tv'
