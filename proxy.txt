@@ -64,3 +64,4 @@ payload:
   - '+.alvarcarto.com'
   - '+.lofi.cafe'
   - '+.argotunnel.com'
+  - '+.qbittorrent.org'
