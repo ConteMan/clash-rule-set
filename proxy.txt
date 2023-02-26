@@ -66,3 +66,4 @@ payload:
   - '+.argotunnel.com'
   - '+.qbittorrent.org'
   - '+.acg.tv'
+  - '+.azureedge.net'
