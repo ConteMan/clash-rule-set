@@ -67,3 +67,4 @@ payload:
   - '+.qbittorrent.org'
   - '+.acg.tv'
   - '+.azureedge.net'
+  - '+.gapsystudio.com'
