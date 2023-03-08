@@ -69,3 +69,5 @@ payload:
   - '+.azureedge.net'
   - '+.gapsystudio.com'
   - '+.figma.com'
+  - '+.discord.com'
+  - '+.discord.gg'
