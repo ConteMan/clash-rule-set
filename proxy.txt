@@ -68,3 +68,4 @@ payload:
   - '+.acg.tv'
   - '+.azureedge.net'
   - '+.gapsystudio.com'
+  - '+.figma.com'
