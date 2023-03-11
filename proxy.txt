@@ -63,7 +63,6 @@ payload:
   - '+.brew.sh'
   - '+.alvarcarto.com'
   - '+.lofi.cafe'
-  - '+.argotunnel.com'
   - '+.qbittorrent.org'
   - '+.acg.tv'
   - '+.azureedge.net'
