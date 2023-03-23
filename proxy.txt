@@ -70,3 +70,4 @@ payload:
   - '+.figma.com'
   - '+.discord.com'
   - '+.discord.gg'
+  - '+.postman.com'
