@@ -72,3 +72,4 @@ payload:
   - '+.discord.gg'
   - '+.postman.com'
   - '+.myanimelist.net'
+  - '+.python.org'
