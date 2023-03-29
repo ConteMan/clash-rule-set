@@ -73,3 +73,4 @@ payload:
   - '+.postman.com'
   - '+.myanimelist.net'
   - '+.python.org'
+  - '+.poe.com'
