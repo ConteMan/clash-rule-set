@@ -74,3 +74,4 @@ payload:
   - '+.myanimelist.net'
   - '+.python.org'
   - '+.poe.com'
+  - '+.tgstat.com'
