@@ -75,3 +75,4 @@ payload:
   - '+.python.org'
   - '+.poe.com'
   - '+.tgstat.com'
+  - '+.loads.de'
