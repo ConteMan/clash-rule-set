@@ -76,3 +76,4 @@ payload:
   - '+.poe.com'
   - '+.tgstat.com'
   - '+.yandex.com'
+  - '*.diygod.me'
