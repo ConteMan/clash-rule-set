@@ -70,7 +70,6 @@ payload:
   - '+.figma.com'
   - '+.discord.com'
   - '+.discord.gg'
-  - '+.postman.com'
   - '+.myanimelist.net'
   - '+.python.org'
   - '+.poe.com'
