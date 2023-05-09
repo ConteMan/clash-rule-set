@@ -76,3 +76,4 @@ payload:
   - '+.tgstat.com'
   - '+.yandex.com'
   - '*.diygod.me'
+  - '*.statcounter.com'
