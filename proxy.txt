@@ -77,4 +77,4 @@ payload:
   - '+.yandex.com'
   - '*.diygod.me'
   - '*.statcounter.com'
-  - '*.hltv.
+  - '*.hltv.org'
