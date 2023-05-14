@@ -79,3 +79,4 @@ payload:
   - '*.statcounter.com'
   - '*.hltv.org'
   - '*.slack.com'
+  - '*.steampowered.com'
