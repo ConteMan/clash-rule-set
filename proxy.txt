@@ -80,3 +80,4 @@ payload:
   - '*.hltv.org'
   - '*.slack.com'
   - '*.steampowered.com'
+  - '*.zhiever.top'
