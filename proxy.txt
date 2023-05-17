@@ -81,3 +81,4 @@ payload:
   - '*.slack.com'
   - '*.steampowered.com'
   - '*.zhiever.top'
+  - '*.ankiweb.net'
