@@ -82,3 +82,4 @@ payload:
   - '*.steampowered.com'
   - '*.zhiever.top'
   - '*.ankiweb.net'
+  - '*.9to5google.com'
