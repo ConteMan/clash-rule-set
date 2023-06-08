@@ -84,3 +84,4 @@ payload:
   - '*.ankiweb.net'
   - '*.9to5google.com'
   - '*.ghcr.io'
+  - '*.wallhaven.cc'
