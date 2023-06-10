@@ -85,3 +85,4 @@ payload:
   - '*.9to5google.com'
   - '*.ghcr.io'
   - '*.wallhaven.cc'
+  - '*.docker.com'
