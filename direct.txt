@@ -3,3 +3,5 @@ payload:
   - '+.libvio.me'
   - '+.qpic.cn'
   - '+.argotunnel.com'
+  - '*.isconte.com'
+  - '*.conteman.me'
