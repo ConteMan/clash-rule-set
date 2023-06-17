@@ -86,3 +86,4 @@ payload:
   - '*.ghcr.io'
   - '*.wallhaven.cc'
   - '*.docker.com'
+  - '*.thebestdesigns.com'
