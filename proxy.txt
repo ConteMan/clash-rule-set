@@ -59,7 +59,7 @@ payload:
   - '+.bing.com'
   - '+.logseq.com'
   - '+.warp.plus'
-  - '+.githubusercontent.com'
+  - '*.githubusercontent.com'
   - '+.brew.sh'
   - '+.alvarcarto.com'
   - '+.lofi.cafe'
