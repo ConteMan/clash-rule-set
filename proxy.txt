@@ -60,7 +60,7 @@ payload:
   - '+.logseq.com'
   - '+.warp.plus'
   - '*.githubusercontent.com'
-  - '+.brew.sh'
+  - '*.brew.sh'
   - '+.alvarcarto.com'
   - '+.lofi.cafe'
   - '+.qbittorrent.org'
