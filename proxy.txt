@@ -87,3 +87,4 @@ payload:
   - '*.wallhaven.cc'
   - '*.docker.com'
   - '*.thebestdesigns.com'
+  - '*.docker.io'
