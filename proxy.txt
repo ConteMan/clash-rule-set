@@ -88,3 +88,4 @@ payload:
   - '*.docker.com'
   - '*.thebestdesigns.com'
   - '*.docker.io'
+  - '*.matters.town'
