@@ -5,3 +5,4 @@ payload:
   - '+.argotunnel.com'
   - '*.isconte.com'
   - '*.conteman.me'
+  - '*.railway.app'
