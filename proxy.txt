@@ -89,3 +89,4 @@ payload:
   - '*.thebestdesigns.com'
   - '*.docker.io'
   - '*.matters.town'
+  - '*.bulianglin.com'
