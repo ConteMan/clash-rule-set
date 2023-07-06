@@ -90,3 +90,4 @@ payload:
   - '+.docker.io'
   - '+.matters.town'
   - '+.bulianglin.com'
+  - '+.threads.net'
