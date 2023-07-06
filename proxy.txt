@@ -91,3 +91,4 @@ payload:
   - '+.matters.town'
   - '+.bulianglin.com'
   - '+.threads.net'
+  - '+.techcrunch.com'
