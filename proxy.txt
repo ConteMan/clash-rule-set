@@ -92,3 +92,4 @@ payload:
   - '+.bulianglin.com'
   - '+.threads.net'
   - '+.techcrunch.com'
+  - '+.mikanani.me'
