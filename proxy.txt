@@ -93,3 +93,4 @@ payload:
   - '+.threads.net'
   - '+.techcrunch.com'
   - '+.mikanani.me'
+  - '+.hey.com'
