@@ -95,3 +95,4 @@ payload:
   - '+.mikanani.me'
   - '+.hey.com'
   - '+.packagist.org'
+  - '+.bandcamp.com'
