@@ -96,3 +96,4 @@ payload:
   - '+.hey.com'
   - '+.packagist.org'
   - '+.bandcamp.com'
+  - '+.notion-static.com'
