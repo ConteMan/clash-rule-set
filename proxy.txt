@@ -97,3 +97,4 @@ payload:
   - '+.packagist.org'
   - '+.bandcamp.com'
   - '+.notion-static.com'
+  - '+.claude.ai'
