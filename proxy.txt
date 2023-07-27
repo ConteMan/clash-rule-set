@@ -98,3 +98,4 @@ payload:
   - '+.bandcamp.com'
   - '+.notion-static.com'
   - '+.claude.ai'
+  - '+.bryntum.com'
