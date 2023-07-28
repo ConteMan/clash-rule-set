@@ -6,3 +6,4 @@ payload:
   - '*.isconte.com'
   - '*.conteman.me'
   - '*.railway.app'
+  - '+.dida365.com'
