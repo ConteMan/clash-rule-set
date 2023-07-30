@@ -100,3 +100,4 @@ payload:
   - '+.claude.ai'
   - '+.bryntum.com'
   - '+.tei-ku.com'
+  - '+.typekit.net'
