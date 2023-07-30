@@ -99,3 +99,4 @@ payload:
   - '+.notion-static.com'
   - '+.claude.ai'
   - '+.bryntum.com'
+  - '+.tei-ku.com'
