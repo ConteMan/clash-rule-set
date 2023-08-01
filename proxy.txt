@@ -101,3 +101,4 @@ payload:
   - '+.bryntum.com'
   - '+.tei-ku.com'
   - '+.typekit.net'
+  - '+.parsec.app'
