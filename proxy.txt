@@ -102,3 +102,4 @@ payload:
   - '+.tei-ku.com'
   - '+.typekit.net'
   - '+.parsec.app'
+  - '+.laravel.com'
