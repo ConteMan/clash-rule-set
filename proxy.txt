@@ -103,3 +103,4 @@ payload:
   - '+.typekit.net'
   - '+.parsec.app'
   - '+.laravel.com'
+  - '+.autobangumi.org'
