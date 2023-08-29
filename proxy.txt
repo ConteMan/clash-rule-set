@@ -104,3 +104,4 @@ payload:
   - '+.parsec.app'
   - '+.laravel.com'
   - '+.autobangumi.org'
+  - '+.douchi.space'
