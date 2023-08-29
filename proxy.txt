@@ -105,3 +105,4 @@ payload:
   - '+.laravel.com'
   - '+.autobangumi.org'
   - '+.douchi.space'
+  - '+.kaiyi.cool'
