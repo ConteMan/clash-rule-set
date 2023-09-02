@@ -106,3 +106,4 @@ payload:
   - '+.autobangumi.org'
   - '+.douchi.space'
   - '+.kaiyi.cool'
+  - '+.archive.org'
