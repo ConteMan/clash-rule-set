@@ -107,3 +107,4 @@ payload:
   - '+.douchi.space'
   - '+.kaiyi.cool'
   - '+.archive.org'
+  - '+.imgix.net'
