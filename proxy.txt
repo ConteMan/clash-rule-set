@@ -108,3 +108,4 @@ payload:
   - '+.kaiyi.cool'
   - '+.archive.org'
   - '+.imgix.net'
+  - '+.omnivore.app'
