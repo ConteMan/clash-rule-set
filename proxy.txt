@@ -109,3 +109,4 @@ payload:
   - '+.archive.org'
   - '+.imgix.net'
   - '+.omnivore.app'
+  - '+.syncthing.net'
