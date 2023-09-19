@@ -111,3 +111,4 @@ payload:
   - '+.omnivore.app'
   - '+.syncthing.net'
   - '+.f-droid.org'
+  - '+.fotmob.com'
