@@ -110,3 +110,4 @@ payload:
   - '+.imgix.net'
   - '+.omnivore.app'
   - '+.syncthing.net'
+  - '+.f-droid.org'
