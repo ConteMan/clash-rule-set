@@ -112,3 +112,4 @@ payload:
   - '+.syncthing.net'
   - '+.f-droid.org'
   - '+.fotmob.com'
+  - '+.postgresql.org'
