@@ -113,3 +113,4 @@ payload:
   - '+.f-droid.org'
   - '+.fotmob.com'
   - '+.postgresql.org'
+  - '+.npmjs.org'
