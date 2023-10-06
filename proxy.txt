@@ -114,3 +114,4 @@ payload:
   - '+.fotmob.com'
   - '+.postgresql.org'
   - '+.npmjs.org'
+  - '+.item2.com'
