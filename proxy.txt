@@ -115,3 +115,4 @@ payload:
   - '+.postgresql.org'
   - '+.npmjs.org'
   - '+.iterm2.com'
+  - '+.lightpillar.com'
