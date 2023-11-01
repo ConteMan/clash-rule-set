@@ -117,3 +117,4 @@ payload:
   - '+.iterm2.com'
   - '+.lightpillar.com'
   - '+.netlify.app'
+  - '+.winget.microsoft.com'
