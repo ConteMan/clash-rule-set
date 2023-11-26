@@ -118,3 +118,5 @@ payload:
   - '+.lightpillar.com'
   - '+.netlify.app'
   - '+.winget.microsoft.com'
+  - '+.macupdater.net'
+  - '+.macupdater-backend.com'
