@@ -120,3 +120,4 @@ payload:
   - '+.winget.microsoft.com'
   - '+.macupdater.net'
   - '+.macupdater-backend.com'
+  - '+.gamedev.place'
