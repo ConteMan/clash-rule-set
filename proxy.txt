@@ -121,3 +121,4 @@ payload:
   - '+.macupdater.net'
   - '+.macupdater-backend.com'
   - '+.gamedev.place'
+  - '+.vercel.com'
