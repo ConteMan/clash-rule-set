@@ -123,3 +123,4 @@ payload:
   - '+.gamedev.place'
   - '+.vercel.com'
   - '+.inoreader.com'
+  - '+.v2link.dev'
