@@ -124,3 +124,4 @@ payload:
   - '+.vercel.com'
   - '+.inoreader.com'
   - '+.v2link.dev'
+  - '+.minjian-danganguan.org'
