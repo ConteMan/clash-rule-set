@@ -126,3 +126,4 @@ payload:
   - '+.v2link.dev'
   - '+.minjian-danganguan.org'
   - '+.moegirl.org'
+  - '+.zhighley.com'
