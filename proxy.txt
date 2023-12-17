@@ -127,3 +127,4 @@ payload:
   - '+.minjian-danganguan.org'
   - '+.moegirl.org'
   - '+.zhighley.com'
+  - '+.hecaitou.com'
