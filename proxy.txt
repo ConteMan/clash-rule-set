@@ -128,4 +128,5 @@ payload:
   - '+.moegirl.org'
   - '+.zhighley.com'
   - '+.hecaitou.com'
-  - '+tiktok.com'
+  - '+.tiktok.com'
+  - '+.limbopro.xyz'
