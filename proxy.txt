@@ -131,3 +131,4 @@ payload:
   - '+.tiktok.com'
   - '+.limbopro.xyz'
   - '+.ableton.com'
+  - '+.readit.site'
