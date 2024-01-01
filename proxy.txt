@@ -132,3 +132,4 @@ payload:
   - '+.limbopro.xyz'
   - '+.ableton.com'
   - '+.readit.site'
+  - '+.wiktionary.org'
