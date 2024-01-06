@@ -133,3 +133,4 @@ payload:
   - '+.ableton.com'
   - '+.readit.site'
   - '+.wiktionary.org'
+  - '+.x.com'
