@@ -134,3 +134,4 @@ payload:
   - '+.readit.site'
   - '+.wiktionary.org'
   - '+.x.com'
+  - '+.bowuzhi.fm'
