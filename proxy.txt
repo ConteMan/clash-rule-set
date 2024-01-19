@@ -135,3 +135,4 @@ payload:
   - '+.wiktionary.org'
   - '+.x.com'
   - '+.bowuzhi.fm'
+  - '+.todesktop.com'
