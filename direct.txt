@@ -7,3 +7,5 @@ payload:
   - '*.conteman.me'
   - '*.railway.app'
   - '+.dida365.com'
+  - '+.taobao.com'
+  - '+.jd.com'
