@@ -9,3 +9,4 @@ payload:
   - '+.dida365.com'
   - '+.taobao.com'
   - '+.jd.com'
+  - '+.weibo.com'
