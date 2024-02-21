@@ -10,3 +10,4 @@ payload:
   - '+.taobao.com'
   - '+.jd.com'
   - '+.weibo.com'
+  - '+.douyin.com'
