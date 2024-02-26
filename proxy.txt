@@ -140,3 +140,4 @@ payload:
   - '+.arc.net'
   - '+.bcyh.one'
   - '+.herrbischoff.com'
+  - '+.msn.cn'
