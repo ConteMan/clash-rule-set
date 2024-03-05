@@ -142,3 +142,4 @@ payload:
   - '+.herrbischoff.com'
   - '+.msn.cn'
   - '+.namesilo.com'
+  - '+.annas-archive.org'
