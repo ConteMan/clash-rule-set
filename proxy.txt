@@ -144,3 +144,4 @@ payload:
   - '+.namesilo.com'
   - '+.annas-archive.org'
   - '+.keychron.com'
+  - '+.weekly.tw93.fun'
