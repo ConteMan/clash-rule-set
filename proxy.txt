@@ -146,3 +146,4 @@ payload:
   - '+.keychron.com'
   - '+.weekly.tw93.fun'
   - '+.immersivetranslate.com'
+  - '+.itunes.apple.com'
