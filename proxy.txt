@@ -147,3 +147,4 @@ payload:
   - '+.weekly.tw93.fun'
   - '+.immersivetranslate.com'
   - 't.co'
+  - '+.neodb.social'
