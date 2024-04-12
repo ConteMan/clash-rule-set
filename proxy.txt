@@ -148,4 +148,4 @@ payload:
   - '+.immersivetranslate.com'
   - 't.co'
   - '+.neodb.social'
-  - 'linodeobjects.com'
+  - '+.linodeobjects.com'
