@@ -149,3 +149,4 @@ payload:
   - 't.co'
   - '+.neodb.social'
   - '+.linodeobjects.com'
+  - '+.microsoft.com'
