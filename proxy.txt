@@ -24,6 +24,7 @@ payload:
   - '+.producthunt.com'
   - '+.sockboom.cool'
   - '+.raycast.app'
+  - '+.raycast.com'
   - '+.cloudfront.net'
   - '+.primefaces.org'
   - '+.goodreads.com'
