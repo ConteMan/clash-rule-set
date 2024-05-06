@@ -152,3 +152,4 @@ payload:
   - '+.linodeobjects.com'
   - '+.microsoft.com'
   - '+.shadcn-vue.com'
+  - '+.royadata.io'
