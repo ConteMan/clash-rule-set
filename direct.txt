@@ -11,3 +11,4 @@ payload:
   - '+.jd.com'
   - '+.weibo.com'
   - '+.douyin.com'
+  - '+.royaweb.io'
