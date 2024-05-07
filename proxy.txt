@@ -153,3 +153,4 @@ payload:
   - '+.microsoft.com'
   - '+.shadcn-vue.com'
   - '+.royadata.io'
+  - '+.alpinelinux.org'
