@@ -154,3 +154,4 @@ payload:
   - '+.shadcn-vue.com'
   - '+.royadata.io'
   - '+.alpinelinux.org'
+  - '+.filezilla-project.org'
