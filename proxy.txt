@@ -156,3 +156,4 @@ payload:
   - '+.alpinelinux.org'
   - '+.filezilla-project.org'
   - '+.php.net'
+  - '+.godaddy.com'
