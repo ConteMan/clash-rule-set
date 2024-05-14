@@ -155,3 +155,4 @@ payload:
   - '+.royadata.io'
   - '+.alpinelinux.org'
   - '+.filezilla-project.org'
+  - '+.php.net'
