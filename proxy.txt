@@ -157,3 +157,4 @@ payload:
   - '+.filezilla-project.org'
   - '+.php.net'
   - '+.godaddy.com'
+  - '+.newsapi.org'
