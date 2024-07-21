@@ -158,3 +158,4 @@ payload:
   - '+.php.net'
   - '+.godaddy.com'
   - '+.newsapi.org'
+  - '+.acg.rip'
