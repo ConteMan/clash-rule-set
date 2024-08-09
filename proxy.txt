@@ -159,3 +159,4 @@ payload:
   - '+.godaddy.com'
   - '+.newsapi.org'
   - '+.acg.rip'
+  - '+.visualstudio.com'
