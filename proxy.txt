@@ -152,7 +152,6 @@ payload:
   - '+.linodeobjects.com'
   - '+.microsoft.com'
   - '+.shadcn-vue.com'
-  - '+.royadata.io'
   - '+.alpinelinux.org'
   - '+.filezilla-project.org'
   - '+.php.net'
