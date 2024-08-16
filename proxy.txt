@@ -160,3 +160,4 @@ payload:
   - '+.acg.rip'
   - '+.visualstudio.com'
   - '+.darmau.co'
+  - '+.tradplusad.com'
