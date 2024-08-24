@@ -162,3 +162,4 @@ payload:
   - '+.darmau.co'
   - '+.tradplusad.com'
   - '+.gamedistribution.com'
+  - '+.azerionconnect.com'
