@@ -161,3 +161,4 @@ payload:
   - '+.visualstudio.com'
   - '+.darmau.co'
   - '+.tradplusad.com'
+  - '+.gamedistribution.com'
