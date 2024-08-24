@@ -163,3 +163,4 @@ payload:
   - '+.tradplusad.com'
   - '+.gamedistribution.com'
   - '+.azerionconnect.com'
+  - '+.headerlift.com'
