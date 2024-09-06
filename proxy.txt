@@ -164,3 +164,4 @@ payload:
   - '+.gamedistribution.com'
   - '+.azerionconnect.com'
   - '+.headerlift.com'
+  - '+.withgoogle.com'
