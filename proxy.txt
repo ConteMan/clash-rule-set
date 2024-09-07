@@ -165,4 +165,3 @@ payload:
   - '+.azerionconnect.com'
   - '+.headerlift.com'
   - '+.withgoogle.com'
-  - '+.tradplusad.com'
