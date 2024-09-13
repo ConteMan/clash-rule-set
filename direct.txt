@@ -12,4 +12,3 @@ payload:
   - '+.weibo.com'
   - '+.douyin.com'
   - '+.royaweb.io'
-  - '+.canva.cn'
