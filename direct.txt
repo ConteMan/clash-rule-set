@@ -1,6 +1,6 @@
 payload:
   - '+.duboku.tv'
-  - '+.libvio.me'
+  - '+.libvio.*'
   - '+.qpic.cn'
   - '+.argotunnel.com'
   - '*.isconte.com'
