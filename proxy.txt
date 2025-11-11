@@ -166,3 +166,4 @@ payload:
   - '+.headerlift.com'
   - '+.withgoogle.com'
   - '+.outbrain.com'
+  - '+.openpanel.dev'
